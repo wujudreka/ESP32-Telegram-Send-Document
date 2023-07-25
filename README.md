@@ -6,8 +6,8 @@ The program running on two core, since the wifi connection and also the process 
 First of all you need to replace the these two file in the universal arduino telegram bot master library
 usually file in C:\Users\<your usernam>\Documents\Arduino\libraries\Universal-Arduino-Telegram-Bot-master\src
 
-UniversalTelegramBot.cpp
-UniversalTelegramBot.h
+1.  UniversalTelegramBot.cpp
+2.  UniversalTelegramBot.h
 
 after that you can just try and adapt the arduino code as you want.
 goodluck
